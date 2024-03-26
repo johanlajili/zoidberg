@@ -1,0 +1,6 @@
+/target
+messages.csv
+.env
+result.txt
+requirements.txt
+.DS_Store
